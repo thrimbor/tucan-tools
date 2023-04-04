@@ -1,0 +1,13 @@
+{
+  "name": "angular-treeview",
+  "homepage": "https://github.com/davidgengenbach/angular.treeview",
+  "_release": "e431cdabe1",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e431cdabe10b3d580f6a5f1084e991f1d06528e1"
+  },
+  "_source": "https://github.com/davidgengenbach/angular.treeview.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/davidgengenbach/angular.treeview.git"
+}
